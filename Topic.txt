@@ -1,0 +1,23 @@
+>>> DFS
+>>> Connected Component
+>>> Cycle Detection
+>>> Matrix problems using DFS
+>>> DFS on Tree
+>>> Precomputation using DFS / Subtree Queries
+>>> Edge deletion using DFS
+
+>>> Diameter of a Tree
+>>> LCA of a Tree
+>>> Binary Uplifting
+
+>>> BFS
+>>> Shortest Path using BFS
+>>> 0-1 BFS
+>>> Multi Source BFS
+
+>>> Topological Sort
+>>> Dijkstra Algo
+>>> Floyar Warshell
+>>> Kruskals Algo , mst
+
+>>> DSU
